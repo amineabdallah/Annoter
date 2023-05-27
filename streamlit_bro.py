@@ -31,10 +31,3 @@ elif col2.button('Save'):
 elif col3.button('Next'):
   z="jgfjgj"
 
-def main():
-    st.title("My Streamlit App")
-    st.write("Hello, world!")
-
-if _name_ == "_main_":
-    main()
-    streamlit.run()
